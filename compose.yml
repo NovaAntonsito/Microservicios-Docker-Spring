@@ -1,0 +1,7 @@
+services:
+  eureka-server:
+    image: eureka-server:latest
+    container_name: Eureka-Server
+    restart: always
+    ports:
+      - '8761:8761'

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run one instance" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="ms-docker-personas.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.tutorial.msdockerpersonas.MsDockerPersonasApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

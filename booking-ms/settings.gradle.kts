@@ -1,1 +1,1 @@
-rootProject.name = "ms-booking-service"
+rootProject.name = "booking-ms"

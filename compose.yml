@@ -1,6 +1,6 @@
 services:
   eureka-server:
-    image: eureka-server:latest
+    image: eureka-server/alpine:latest
     container_name: Eureka-Server
     restart: always
     ports:

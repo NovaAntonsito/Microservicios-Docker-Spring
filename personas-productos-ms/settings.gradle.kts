@@ -1,1 +1,1 @@
-rootProject.name = "ms-docker-personas"
+rootProject.name = "ms-docker-personas-service"

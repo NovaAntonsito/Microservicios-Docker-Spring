@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Launch Configuration Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="configuationserver.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.configurator.server.ServerApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
